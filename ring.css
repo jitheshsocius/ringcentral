@@ -1,4 +1,4 @@
-.Adapter_logo > .Adapter_visible {
+.Adapter_logo .Adapter_visible {
     display: none !important;
     content: none !important;
 }
