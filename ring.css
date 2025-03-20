@@ -1,1 +1,9 @@
+.Adapter_logo > .Adapter_visible {
+    display: none !important;
+    content: none !important;
+}
+.Adapter_root .Adapter_logo {
 
+    src: url('https://2ea7-2405-201-f00c-88b-3c96-740d-ccbc-66c3.ngrok-free.app/web_enterprise/static/img/background-light.svg');
+
+}
